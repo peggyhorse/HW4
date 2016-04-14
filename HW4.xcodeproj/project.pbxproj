@@ -22,14 +22,14 @@
 		157C2CDD1CBE5C0200F30B52 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		157C2CE01CBE5C0200F30B52 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		157C2CE21CBE5C0200F30B52 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		157C2CE81CBE5EE300F30B52 /* HW3_8.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = HW3_8.playground; path = HW4/HW3_8.playground; sourceTree = "<group>"; };
-		157C2D091CBE818900F30B52 /* HW3_5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = HW3_5.playground; sourceTree = "<group>"; };
-		157C2D0A1CBE81AF00F30B52 /* HW3_1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = HW3_1.playground; sourceTree = "<group>"; };
-		157C2D0B1CBE81AF00F30B52 /* HW3_2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = HW3_2.playground; sourceTree = "<group>"; };
-		157C2D0C1CBE81AF00F30B52 /* HW3_3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = HW3_3.playground; sourceTree = "<group>"; };
-		157C2D0D1CBE81AF00F30B52 /* HW3_4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = HW3_4.playground; sourceTree = "<group>"; };
-		157C2D0E1CBE81D900F30B52 /* HW3_6.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = HW3_6.playground; sourceTree = "<group>"; };
-		157C2D0F1CBE81D900F30B52 /* HW3_7.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = HW3_7.playground; sourceTree = "<group>"; };
+		157C2CE81CBE5EE300F30B52 /* HW3_8.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = HW3_8.playground; sourceTree = "<group>"; };
+		157C2D091CBE818900F30B52 /* HW3_5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = HW3_5.playground; path = ../HW3_5.playground; sourceTree = "<group>"; };
+		157C2D0A1CBE81AF00F30B52 /* HW3_1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = HW3_1.playground; path = ../HW3_1.playground; sourceTree = "<group>"; };
+		157C2D0B1CBE81AF00F30B52 /* HW3_2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = HW3_2.playground; path = ../HW3_2.playground; sourceTree = "<group>"; };
+		157C2D0C1CBE81AF00F30B52 /* HW3_3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = HW3_3.playground; path = ../HW3_3.playground; sourceTree = "<group>"; };
+		157C2D0D1CBE81AF00F30B52 /* HW3_4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = HW3_4.playground; path = ../HW3_4.playground; sourceTree = "<group>"; };
+		157C2D0E1CBE81D900F30B52 /* HW3_6.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = HW3_6.playground; path = ../HW3_6.playground; sourceTree = "<group>"; };
+		157C2D0F1CBE81D900F30B52 /* HW3_7.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = HW3_7.playground; path = ../HW3_7.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,14 +46,6 @@
 		157C2CCA1CBE5C0200F30B52 = {
 			isa = PBXGroup;
 			children = (
-				157C2D0E1CBE81D900F30B52 /* HW3_6.playground */,
-				157C2D0F1CBE81D900F30B52 /* HW3_7.playground */,
-				157C2D0A1CBE81AF00F30B52 /* HW3_1.playground */,
-				157C2D0B1CBE81AF00F30B52 /* HW3_2.playground */,
-				157C2D0C1CBE81AF00F30B52 /* HW3_3.playground */,
-				157C2D0D1CBE81AF00F30B52 /* HW3_4.playground */,
-				157C2D091CBE818900F30B52 /* HW3_5.playground */,
-				157C2CE81CBE5EE300F30B52 /* HW3_8.playground */,
 				157C2CD51CBE5C0200F30B52 /* HW4 */,
 				157C2CD41CBE5C0200F30B52 /* Products */,
 			);
@@ -70,6 +62,14 @@
 		157C2CD51CBE5C0200F30B52 /* HW4 */ = {
 			isa = PBXGroup;
 			children = (
+				157C2D0A1CBE81AF00F30B52 /* HW3_1.playground */,
+				157C2D0B1CBE81AF00F30B52 /* HW3_2.playground */,
+				157C2D0C1CBE81AF00F30B52 /* HW3_3.playground */,
+				157C2D0D1CBE81AF00F30B52 /* HW3_4.playground */,
+				157C2D091CBE818900F30B52 /* HW3_5.playground */,
+				157C2D0E1CBE81D900F30B52 /* HW3_6.playground */,
+				157C2D0F1CBE81D900F30B52 /* HW3_7.playground */,
+				157C2CE81CBE5EE300F30B52 /* HW3_8.playground */,
 				157C2CD61CBE5C0200F30B52 /* AppDelegate.swift */,
 				157C2CD81CBE5C0200F30B52 /* ViewController.swift */,
 				157C2CDA1CBE5C0200F30B52 /* Main.storyboard */,
